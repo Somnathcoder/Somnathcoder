@@ -1,4 +1,4 @@
-![logo](https://github.com/Somnathcoder/Somnathcoder/blob/main/images.jpg)
+![logo](https://github.com/Somnathcoder/Somnathcoder/blob/main/4f3c7c1985f50b85ab07ed7a852ab3ce.jpg)
 <h1 align="center">Hi 👋, I'm Somnath Gadekar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
