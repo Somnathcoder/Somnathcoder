@@ -1,6 +1,6 @@
 ![logo](https://github.com/Somnathcoder/Somnathcoder/blob/main/4f3c7c1985f50b85ab07ed7a852ab3ce.jpg)
 <h1 align="center">Hi 👋, I'm Somnath Gadekar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
